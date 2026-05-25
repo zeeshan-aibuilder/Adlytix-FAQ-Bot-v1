@@ -1,0 +1,124 @@
+pricing_basic = Basic package starts from 5000 PKR
+pricing_standard = Standard package starts from 12000 PKR
+pricing_premium = Premium package starts from 25000 PKR
+pricing_enterprise = Enterprise solutions are custom priced
+pricing_discount = Yearly subscription includes 20 percent discount
+pricing_trial = Free trial available for 7 days
+pricing_setup = One time setup fee is 2000 PKR
+pricing_ads = Meta ads management starts from 15000 PKR
+pricing_seo = SEO services start from 10000 PKR
+pricing_web = Website development starts from 30000 PKR
+
+refund_policy = 7 days refund available
+refund_partial = Partial refund available within 3 days
+refund_process = Refund process takes 5 working days
+refund_payment = Refund issued to original payment method
+refund_cancel = Subscription can be cancelled anytime
+refund_nonrefundable = Domain charges are non refundable
+refund_conditions = Refund only valid before project completion
+refund_support = Contact support for refund requests
+refund_subscription = Monthly subscriptions are refundable within 7 days
+refund_approval = Refund requests require approval
+
+contact_phone = 03710712972
+contact_whatsapp = WhatsApp support available on 03710712972
+contact_email = support@company.com
+contact_address = Office located in Lahore Pakistan
+contact_hours = Support available from 9 AM to 6 PM
+contact_instagram = Instagram support available daily
+contact_facebook = Facebook page replies within 1 hour
+contact_livechat = Live chat support available on website
+contact_telegram = Telegram support available for clients
+contact_emergency = Emergency support available for premium users
+
+delivery_time = Website delivery takes 7 days
+delivery_logo = Logo design delivery takes 2 days
+delivery_seo = SEO results may take 2 months
+delivery_ads = Ad campaign setup completed within 24 hours
+delivery_content = Content writing delivery takes 3 days
+delivery_revision = Revisions completed within 48 hours
+delivery_api = API integration delivery takes 5 days
+delivery_dashboard = Dashboard setup completed within 4 days
+delivery_app = Mobile app development takes 30 days
+delivery_urgent = Urgent delivery available with extra charges
+
+services_seo = We provide complete SEO optimization services
+services_ads = We manage Meta and Google ads campaigns
+services_ai = AI chatbot integration service available
+services_graphics = Professional graphic design services available
+services_video = Video editing service available for brands
+services_branding = Complete branding solutions available
+services_hosting = Fast web hosting service available
+services_marketing = Digital marketing strategies for ecommerce stores
+services_automation = Business automation systems available
+services_consultation = Free business consultation available
+
+support_response = Average support response time is 15 minutes
+support_priority = Premium users receive priority support
+support_language = Support available in Urdu and English
+support_team = Dedicated account manager assigned for premium plans
+support_training = Free training sessions available for clients
+support_bugfix = Bug fixing support included in all packages
+support_update = System updates provided monthly
+support_backup = Daily backup service available
+support_remote = Remote desktop support available
+support_ticket = Support tickets resolved within 24 hours
+
+features_dashboard = Real time analytics dashboard included
+features_tracking = Conversion tracking setup included
+features_reports = Weekly performance reports provided
+features_security = Advanced security protection enabled
+features_speed = Optimized website speed included
+features_mobile = Mobile responsive design included
+features_ssl = Free SSL certificate included
+features_ai = AI powered automation features available
+features_backup = Automatic cloud backup included
+features_multiuser = Multi user access available
+
+hosting_shared = Shared hosting starts from 3000 PKR yearly
+hosting_vps = VPS hosting starts from 12000 PKR yearly
+hosting_cloud = Cloud hosting available for high traffic websites
+hosting_backup = Hosting includes weekly backups
+hosting_ssl = Free SSL included with hosting plans
+hosting_support = Hosting support available 24/7
+hosting_storage = Unlimited storage available in premium hosting
+hosting_migration = Free website migration available
+hosting_uptime = Hosting uptime guarantee is 99.9 percent
+hosting_panel = cPanel access included with hosting
+
+seo_keywords = SEO keyword research included in plans
+seo_audit = Free SEO audit available
+seo_onpage = On page SEO optimization included
+seo_offpage = Off page backlink building available
+seo_local = Local SEO services available for businesses
+seo_content = SEO optimized content writing available
+seo_rank = Google ranking improvement strategies provided
+seo_reports = Monthly SEO reports included
+seo_speed = Website speed optimization for SEO included
+seo_competitor = Competitor SEO analysis available
+
+ads_meta = Meta ads campaigns managed professionally
+ads_google = Google ads management service available
+ads_budget = Minimum ads budget recommended is 10000 PKR
+ads_targeting = Audience targeting setup included
+ads_conversion = Conversion optimization available
+ads_pixel = Meta pixel setup included
+ads_tracking = Ad performance tracking available
+ads_strategy = Custom ad strategy created for clients
+ads_creatives = Ad creatives designed professionally
+ads_scaling = Campaign scaling support available
+
+security_firewall = Advanced firewall protection enabled
+security_monitoring = 24/7 security monitoring available
+security_backup = Daily encrypted backups included
+security_antivirus = Malware scanning included in hosting
+security_login = Two factor authentication supported
+security_access = Secure admin access enabled
+security_data = Client data protected with encryption
+security_ddos = DDoS protection available
+security_ssl = SSL encryption included
+security_recovery = Disaster recovery support available
+
+
+
+
